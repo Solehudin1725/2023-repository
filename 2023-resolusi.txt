@@ -7,5 +7,5 @@ Resolusi 2023
 - Mempelajari dan mendalami Backend Web Development
   ~ PHP
   ~ LARAVEL
-  ~ SQL
+  ~ Design Database
 - Membuat Project Backend Web
