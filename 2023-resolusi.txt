@@ -1,5 +1,11 @@
 Resolusi 2023
 - Mempelajari dan mendalami Frontend Web Development 
+  ~ HTML
+  ~ CSS
+  ~ JAVASCRIPT
 - Membuat project frontend web
 - Mempelajari dan mendalami Backend Web Development
+  ~ PHP
+  ~ LARAVEL
+  ~ SQL
 - Membuat Project Backend Web
